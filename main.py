@@ -28,4 +28,3 @@ def get_rhyme(x):
     return choice(s)
 
 
-print(get_rhyme('Жопа'))
